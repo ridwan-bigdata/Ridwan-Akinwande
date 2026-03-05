@@ -1,6 +1,3 @@
-# Ridwan-Akinwande
-About Me
-
 # Hi, I'm Ridwan 👋
 
 🎓 BTech Pure and Applied Mathematics
