@@ -3,7 +3,7 @@
 🎓 BTech Pure and Applied Mathematics
 🎓 MSc Double Degrees in Mathematics (ERASMUS)
 🎓 MSc Financial Engineering  
-📊 Data Analyst | Big Data Intern  
+📊 Data Analyst | Big Data Engineer  
 🧠 Mathematics background with strong analytical thinking  
 
 I enjoy working with data to uncover insights, build data-driven solutions, and solve real-world problems. My work focuses on data analysis, SQL analytics, and data engineering.
