@@ -51,8 +51,7 @@ Practice queries analyzing film rentals, actors, and customer behavior.
 ## 🌍 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/ridwan-akinwande/  
-Email: ridakinwande08@gmail.com Or ridwan.akinwande@innowise.com
-
+Email: ridakinwande08@gmail.com
 ---
 
 ⭐ Always learning, building, and improving.
